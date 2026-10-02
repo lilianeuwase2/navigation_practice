@@ -8,3 +8,4 @@ This is a simple application that displays a list of products and tapping on the
 
 ### Demo video 
 
+[Demo video link ](https://drive.google.com/file/d/1eMx406m-zOp3sM_kQWqSAh7dezGFKF4z/view?usp=sharing)
