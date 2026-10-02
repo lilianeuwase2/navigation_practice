@@ -1,17 +1,10 @@
-# navigation_practice
+# Product navigation 
+This is a simple application that displays a list of products and tapping on the product takes you to the details page which has more information about  the product. 
 
-A new Flutter project.
+## Features 
+- the app has home screen with list of products 
+- tapping on a product takes you to the details page
+- Back navigation returns to the home screen via the built in navigator back arrow
 
-## Getting Started
+### Demo video 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
